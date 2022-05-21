@@ -1,4 +1,4 @@
-[y](header.png)
+![y](header.png?raw=true "Title")
 
 ### Hi there 👋
 
