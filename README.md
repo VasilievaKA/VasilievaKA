@@ -1,7 +1,7 @@
 ![y](header.png?raw=true "Title")
 
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0C0C44&lines=Student+of+RTU+MIREA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%04048C&lines=Student+of+RTU+MIREA)](https://git.io/typing-svg)
 <!--
 **VasilievaKA/VasilievaKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
