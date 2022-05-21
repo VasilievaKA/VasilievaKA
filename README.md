@@ -1,4 +1,4 @@
-![alt text](https://github.com/VasilievaKA/VasilievaKA/blob/main/image.png?raw=true)
+[https://github.com/VasilievaKA/VasilievaKA/blob/main/image.png?raw=true](https://github.com/VasilievaKA/VasilievaKA/blob/main/header.png)
 
 ### Hi there 👋
 
