@@ -1,4 +1,4 @@
-[https://raw.githubusercontent.com/VasilievaKA/VasilievaKA/main/header.png](https://raw.githubusercontent.com/VasilievaKA/VasilievaKA/main/header.png)
+[https://github.com/VasilievaKA/VasilievaKA/blob/main/header.png](https://raw.githubusercontent.com/VasilievaKA/VasilievaKA/main/header.png)
 ### Hi there 👋
 
 <!--
