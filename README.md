@@ -1,5 +1,8 @@
 ![y](header.png?raw=true "Title")
 
+
+![](https://komarev.com/ghpvc/?username=your-github-VasilievaKA)
+
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%04048C&lines=Student+of+RTU+MIREA)](https://git.io/typing-svg)
 
