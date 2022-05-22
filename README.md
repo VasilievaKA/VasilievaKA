@@ -18,8 +18,8 @@
 
 
 
-**VasilievaKA/VasilievaKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi, I am __Vasilieva Ksenia__    
+I'm Student of RTU MIREA and School 21.    
 - 🔭 I’m currently working on s21_project in School 21   
 - 🌱 I’m currently learning Python, R, C, math, english and spanish   
 - 💬 Ask me about myself. It will be very interesting   
