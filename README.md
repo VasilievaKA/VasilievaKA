@@ -14,7 +14,7 @@ Esxcept programming and math I am studing **English** and **Spanish**. Now I hav
 
 ### ML and math statistics
 1. [Основы Machine-learning](https://github.com/VasilievaKA/ML-course-part1) 
-2. Neural networks 
+2. [Neural networks](https://github.com/VasilievaKA/ML-course-part2) 
 3. Математическая статистика 
 
 ### Telegram-bots 
