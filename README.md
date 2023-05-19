@@ -4,9 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilievaKA&layout=donut-vertical&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me🤵🏼‍♀️  
-I am __Vasilieva Ksenia__ 21 years old student of RTU MIREA and School 21.   
-I am realy intrested in **Machine Learning**, **Analytics**, **math**, **Python** and **Java** Development.           
-Esxcept programming and math I am studing **English** and **Spanish**. Now I have: 
+I am __Vasilieva Ksenia__ 21 years old student of **RTU MIREA** and **School 21**.   
+I am realy intrested in ``Machine Learning``, ``Analytics``, ``math``, ``Python`` and ``Java`` Development.           
+Except programming and math I am studing **English** and **Spanish**. Now I have: 
 * English - B2 (Upper-Intermediate) 
 * Spanish - A1 (Beginner)
     
