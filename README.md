@@ -24,6 +24,9 @@ Except programming and math I am studing **English** and **Spanish**. Now I have
 ### С/С++ development 
 
 
+### DevOps
+
+
 ### Java development 
 1. [Курс языка Java](https://github.com/VasilievaKA/Java-practice)
 
