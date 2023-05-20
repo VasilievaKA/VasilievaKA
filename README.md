@@ -22,10 +22,13 @@ Except programming and math I am studing **English** and **Spanish**. Now I have
 2. [Бот для школы программирования](https://github.com/VasilievaKA/DZshka-bot-project)
 
 ### С/С++ development 
-
+1. [Библиотека string.h](https://github.com/VasilievaKA/S21_string_h)
+2. [Библиотека math.h](https://github.com/VasilievaKA/S21_math_h)
 
 ### DevOps
-
+1. [Базовая работа с ОС Linux](https://github.com/VasilievaKA/S21_Linux)
+2. [Конфигурация сетей](https://github.com/VasilievaKA/S21_Network)
+3. 
 
 ### Java development 
 1. [Курс языка Java](https://github.com/VasilievaKA/Java-practice)
