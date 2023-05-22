@@ -28,7 +28,8 @@ Except programming and math I am studing **English** and **Spanish**. Now I have
 ### DevOps
 1. [Базовая работа с ОС Linux](https://github.com/VasilievaKA/S21_Linux)
 2. [Конфигурация сетей](https://github.com/VasilievaKA/S21_Network)
-3. 
+3. [Работа с контейнерами docker](https://github.com/VasilievaKA/S21_Docker) 
+4. [Базовый CICD](https://github.com/VasilievaKA/S21_CICD)
 
 ### Java development 
 1. [Курс языка Java](https://github.com/VasilievaKA/Java-practice)
