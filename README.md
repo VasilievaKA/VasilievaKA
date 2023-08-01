@@ -5,7 +5,7 @@
 
 # About me🤵🏼‍♀️  
 I am __Vasilieva Ksenia__ 21 years old student of **RTU MIREA** and **School 21**.   
-I am realy intrested in ``Machine Learning and Artificial Intelligence``, ``Analytics``, ``math``, ``Python`` and ``Java`` Development.           
+I am realy intrested in ``Machine Learning``, ``Artificial Intelligence``, ``Analytics``, ``math`` and ``Python``.           
 Except programming and math I am studing **English** and **Spanish**. Now I have: 
 * English - B2 (Upper-Intermediate) 
 * Spanish - A1 (Beginner)
