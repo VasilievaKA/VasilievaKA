@@ -1,6 +1,7 @@
 ![y](header.png?raw=true "Title")
 ![](https://komarev.com/ghpvc/?username=your-github-VasilievaKA)   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)   
+![LeetCode Stats](https://leetcard.jacoblin.cool/VasilievaKA?theme=nord&font=ABeeZee&ext=activity) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilievaKA&layout=donut-vertical&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me🤵🏼‍♀️  
