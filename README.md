@@ -21,9 +21,6 @@ Except programming and math I am studing **English** and **Spanish**. Now I have
 1. [Бот для мотивации](https://github.com/VasilievaKA/Motivashka_bot) 
 2. [Бот для школы программирования](https://github.com/VasilievaKA/DZshka-bot-project)
 
-### С/С++ development 
-1. [Библиотека string.h](https://github.com/VasilievaKA/S21_string_h)
-2. [Библиотека math.h](https://github.com/VasilievaKA/S21_math_h)
 
 ### DevOps
 1. [Базовая работа с ОС Linux](https://github.com/VasilievaKA/S21_Linux)
@@ -33,9 +30,6 @@ Except programming and math I am studing **English** and **Spanish**. Now I have
 
 ### SQL and DB
 1. [Ветка SQL в Школе 21](https://github.com/VasilievaKA/S21_SQL)
-
-### Java development 
-1. [Курс языка Java](https://github.com/VasilievaKA/Java-practice)
 
 
 ## How to reach me📫    
